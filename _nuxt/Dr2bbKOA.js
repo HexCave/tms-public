@@ -1,0 +1,1 @@
+import{o as a,c as l,D as s,n}from"./Kk2WZZTY.js";const c={__name:"section-layout",props:{bg:{type:String,default:"bg-black"},width:{type:String,default:"w-full xl:w-[70%]"}},setup(e){return(t,o)=>(a(),l("div",{class:n(["flex flex-col justify-center items-center px-5 sm:px-10 md:px-20 max-w-max-limit font-IbmSans",[e.bg,e.width]])},[s(t.$slots,"default")],2))}};export{c as _};
